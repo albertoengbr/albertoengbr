@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="images/banner.png" width="100%">
-</p>
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/da7eb7c8-81a1-4abe-900b-8fdb3e19734d" />
+
 
 <!--
 **albertoengbr/albertoengbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
